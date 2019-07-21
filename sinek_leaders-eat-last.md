@@ -50,17 +50,65 @@ plausible first, and supportive scientific evidence takes a back seat.
 
 #### Chapter 1 - Protection from Above
 
+-   Shares examples of good military leadership and platoon cohesion because
+    best examples arise in stressful combat situations
+-   Principles involved in leadership and teamwork in combat apply to business
+
 #### Chapter 2 - Employees Are People Too
+
+-   Great leaders don't consider people as means to grow money, but rather
+    consider money means to grow people
+-   If employees believe company puts people before money, people will repay in
+    loyalty and drive to grow company
+-   It is the leader's responsibility to protect the people, and in return, the
+    people will protect themselves, and help grow the organization
+-   On other hand, when leaders don't protect people, people become defensive,
+    and protect themselves
+-   _"... sacrifice the numbers to save the people, and not to sacrifice the
+    people to save the numbers"_
 
 #### Chapter 3 - Belonging
 
+-   Circle of safety: Team's / individual's defenses to outside threats
+-   World is filled with dangers. We evolved among natural threats like tigers,
+    but today's threats are competitors, changing tech, meeting deadlines, etc.
+    and are just as real
+-   In bad orgs, threats include layoffs, bad cultures
+-   When bad orgs present threats, people and teams become defensive, and act to
+    protect themselves at cost of org
+-   Duty of leader: create team culture free of threats and rich in camaraderie
+-   Bad circle of safety = circle of threats: Layoffs, isolation, politics,
+    shaming, intimidation, etc.
+-   Good circle of safety: Belonging, protection, honesty, caring, etc.
+-   Good circle of safety = team members free to effectively tackle threats to
+    the organization
+
 #### Chapter 4 - Yeah, but...
+
+-   Idealism is nice, but many managers and employees stuck in bad orgs with bad
+    cultures
+-   Reality: Sales to make, mouths to feed
+-   Pity many don't like their jobs because having job we hate is worse for
+    health than having no job at all
+-   Dangers of staying in bad job are worse than leaving
 
 ### Part 2 - Powerful Forces
 
 #### Chapter 5 When Enough Was Enough
 
+-   Do best work when facing external challenges, rooted in biology
+-   Bad leaders believe internal threats are motivating which is not true
+
 #### Chapter 6 E.D.S.O.
+
+-   Four major chemical incentive for the body:
+    -   Endorphins: Manages pain
+    -   Dopamine: Feels good when accomplishing goal
+    -   Serotonin: Makes you feel grateful for those who support you
+    -   Oxytocin: Makes you feel love and is released when hugging or bonding
+-   Serotonin & oxytocin backbone of circle of safety
+-   Can't feel sense of responsibility towards numbers, we can only feel a sense
+    of responsibility to people
 
 #### Chapter 7 The Big C
 
