@@ -112,29 +112,121 @@ plausible first, and supportive scientific evidence takes a back seat.
 
 #### Chapter 7 The Big C
 
+-   Cortisol inhibits social chemicals, serotonin and oxytocin, and is released
+    when under threat
+-   When cortisol is released, we lack empathy, and have no drive to help each
+    other
+-   When in an environment where we don't feel safe, we naturally become more
+    selfish for self-preservation
+-   When social chemicals abundant, can even harness selfish chemicals to
+    advance goals of organization
+
 #### Chapter 8 Why We Have Leaders
+
+-   Roles are not equal, and that's OK
+-   Social hierarchies allow us to cooperate and have a shared understanding of
+    order
+-   Benefit of high status: Respect, can eat first, etc. Cost: must defend the
+    group
+-   Alpha males brimming with serotonin should be first to rush towards danger
+    to protect the group
+-   We give alphas first choice of mate because they're expected to die early,
+    and we want to keep leadership genes in the group
+-   We get angry when bad leaders are rewarded, e.g., large severance package.
+    It's a violation of our expectations of a leader
+-   Fame and financial status should be a byproduct of alpha status, not a way
+    to achieve it
+-   Rank is not what makes a leader. Leadership is the choice to serve others,
+    with or without rank.
+-   Those who want to enjoy perks of leadership w/o fulfilling obligations are
+    weak leaders
+-   True leaders are those who rise through ranks b/c they fulfil their
+    obligations, and the tribe offers them higher status
+-   Good leaders do right by their tribe in hard times: Their tribe commits to
+    them to see them through
 
 ### Part 3 - Reality
 
 #### Chapter 9 The Courage to Do the Right Thing
 
+-   We trust people, not rules
+-   Don't care about rules as long as leaders doing the right thing
+-   Bureaucrats are annoying because rules should serve us, not other way around
+-   When rules don't serve us anymore, there's no point in following them
+-   _In strong organizations, people break rules for the benefit of the org, in
+    weak orgs, people break rules for personal gain_
+
 #### Chapter 10 Snowmobile in the Desert
+
+-   Our limbic system (ancient brain) controls our feelings and ability to trust
+    and cooperate
+-   Our ability to cooperate allowed us to build complex and technologically
+    advanced civilization
+-   Ironic that current tech harms our ability to cooperate
+-   Booming self-help industry evidence we're growing apart and more unhappy
 
 ### Part 4 - How We Got Here
 
 #### Chapter 11 The Boom Before the Bust
 
+-   The "Greatest Generation", c. WWII, selfless, about sacrificing to serve the
+    whole
+-   "Baby Boomers" beginning of selfish generation
+
 #### Chapter 12 The Boomers All Grown Up
+
+-   Disposable technologies took root with the baby boomers
+-   Disposable tech -> disposable people (layoffs, et al.)
+-   People have become abstractions: anonymous customers, lines on email list,
+    expenses on spreadsheets
+-   Culture of layoffs began w/ Reagan when layed off 11,000 air traffic
+    controllers
+-   Tacit approved layoffs in business world
+-   Layoffs OK to serve numbers
 
 ### Part 5 - The Abstract Challenge
 
 #### Chapter 13 Abstraction Kills
 
+-   Milgram’s experiment: People more willing to harm when can't see victim
+-   Experiment taking place on mass scale in business world
+-   When people can't see victims, they're not real; They're abstractions
+-   More distance = more potential harm b/c less consideration
+
 #### Chapter 14 Modern Abstraction
+
+-   Parallel between the famous Nazi defense of “I was just following orders” to
+    the modern “we have to provide shareholder value” of corporate world
+-   We are visual creatures. We help those we can see. We build what we can
+    envision.
+-   Issue: Pain / harm behind those we cannot see behind the abstractions
+-   Can't see customers? Pursue metrics and KPIs
+-   To justify any bad behavior: "Must serve shareholders", "have a fiduciary
+    duty"
+-   _"Provide shareholder value = I was following orders"_
 
 #### Chapter 15 Managing the Abstraction
 
+-   Rules to address dangers of abstraction:
+    -   _Keep it real. Bring people together._ Trust is formed in-person, not
+        over the internet
+    -   _Keep it manageable: 150 people max._ Keep groups no larger than 150
+        people to maintain sense of tribal belonging
+    -   _Meet people you help._ Real, in-person contact w/ customers is
+        rewarding and motivating
+    -   _Give time, not money._ We value time more than money
+    -   _Be patient. 7 days to 7 years._ Takes longer than 7 days but less than
+        7 years to form bond of love and trust
+
 #### Chapter 16 Imbalance
+
+-   Destructive imbalance: social vs social pursuits
+-   Destructive abundance = too much dopamine (goal accomplishment) too little
+    oxytocin (social chemical)
+-   Destructive abundance = getting results w/o caring how got there, focusing
+    on final score and forgetting why we started
+-   Destructive abundance brought on by weak leaders who don't fulfil their
+    leadership obligations
 
 ### Part 6 - Destructive Abundance
 
