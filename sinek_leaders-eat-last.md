@@ -46,6 +46,81 @@ plausible first, and supportive scientific evidence takes a back seat.
     thinking and metrics, but should be considering long-term viability end
     people
 
+### Part 1 - Our Need To Feel Safe
+
+#### Chapter 1 - Protection from Above
+
+#### Chapter 2 - Employees Are People Too
+
+#### Chapter 3 - Belonging
+
+#### Chapter 4 - Yeah, but...
+
+### Part 2 - Powerful Forces
+
+#### Chapter 5 When Enough Was Enough
+
+#### Chapter 6 E.D.S.O.
+
+#### Chapter 7 The Big C
+
+#### Chapter 8 Why We Have Leaders
+
+### Part 3 - Reality
+
+#### Chapter 9 The Courage to Do the Right Thing
+
+#### Chapter 10 Snowmobile in the Desert
+
+### Part 4 - How We Got Here
+
+#### Chapter 11 The Boom Before the Bust
+
+#### Chapter 12 The Boomers All Grown Up
+
+### Part 5 - The Abstract Challenge
+
+#### Chapter 13 Abstraction Kills
+
+#### Chapter 14 Modern Abstraction
+
+#### Chapter 15 Managing the Abstraction
+
+#### Chapter 16 Imbalance
+
+### Part 6 - Destructive Abundance
+
+#### Chapter 17 Leadership Lesson 1: So Goes the Culture, so Goes the Company
+
+#### Chapter 18 Leadership Lesson 2: So Goes the Leader, so Goes the Culture
+
+#### Chapter 19 Leadership Lesson 3: Integrity Matters
+
+#### Chapter 20 Leadership Lesson 4: Friends Matter
+
+#### Chapter 21 Leadership Lesson 5: Lead the People, Not the Numbers
+
+### Part 7 - A Society Of Addicts
+
+#### Chapter 22 At the Center of All Our Problems Is Us
+
+#### Chapter 23 At Any Expense
+
+#### Chapter 24 The Abstract Generation
+
+### Part 8 - Becoming A Leader
+
+#### Chapter 25 Step 12
+
+#### Chapter 26 Shared Struggle
+
+#### Chapter 27 We Need More Leaders
+
+### References
+
+-   https://thepowermoves.com/leaders-eat-last-summary/
+-   https://vufind.carli.illinois.edu/vf-ilc/Record/ilc_149712/TOC
+
 ## Consumption Details
 
 -   Format: Audiobook
