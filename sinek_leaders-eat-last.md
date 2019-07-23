@@ -232,7 +232,20 @@ plausible first, and supportive scientific evidence takes a back seat.
 
 #### Chapter 17 Leadership Lesson 1: So Goes the Culture, so Goes the Company
 
+-   "You can easily judge the character of a man by how he treats those who can
+    do nothing for him"
+-   People in bad companies are not necessarily bad, but the companies can be
+
 #### Chapter 18 Leadership Lesson 2: So Goes the Leader, so Goes the Culture
+
+-   Leaders set the tone of behavior in an org
+-   Strong leaders delegate responsibilities and empower subordinates, foster
+    environment where people look out for each other
+-   Examples of Captain Marquet aboard the Santa Fe submarine where captain was
+    used to knowing everything, but was put in an environment where he knew
+    nothing, and had to delegate ownership to subordinates
+-   Examples of Jack Welch and Sinegal from Costco who treats employees with
+    respect, and they get loyalty in return
 
 #### Chapter 19 Leadership Lesson 3: Integrity Matters
 
