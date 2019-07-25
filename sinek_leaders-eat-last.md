@@ -1,13 +1,29 @@
-# Leaders Eat Last
+# Leaders Eat Last: Why Some Teams Pull Together and Others Don't
 
-> By Simon Sinek
+> By Simon Sinek, 2014
+
+- [Review](#review)
+  - [The Bad](#the-bad)
+  - [The Good](#the-good)
+- [Book Summary](#book-summary)
+  - [Main Ideas](#main-ideas)
+  - [Part 1 - Our Need To Feel Safe](#part-1---our-need-to-feel-safe)
+  - [Part 2 - Powerful Forces](#part-2---powerful-forces)
+  - [Part 3 - Reality](#part-3---reality)
+  - [Part 4 - How We Got Here](#part-4---how-we-got-here)
+  - [Part 5 - The Abstract Challenge](#part-5---the-abstract-challenge)
+  - [Part 6 - Destructive Abundance](#part-6---destructive-abundance)
+  - [Part 7 - A Society Of Addicts](#part-7---a-society-of-addicts)
+  - [Part 8 - Becoming A Leader](#part-8---becoming-a-leader)
+  - [References](#references)
+- [Consumption Details](#consumption-details)
 
 ## Review
 
 ★★★★☆
 
-Leaders Eat Last is a book about what it means to be a good leader, and how to
-foster healthy, cohesive teams.
+_Leaders Eat Last_ by Simon Sinek is a book about what it means to be a good
+leader, and how to foster healthy, cohesive teams.
 
 Overall I liked the book. I thought it offered good, consumable, convincing
 ideas about what makes good teams work well together, and defined leadership as
