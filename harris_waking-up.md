@@ -2,8 +2,8 @@
 
 > By Sam Harris, 2014
 
-- [WIP: Review](#wip-review)
-- [WIP: Summary](#wip-summary)
+- [Review](#review)
+- [Summary](#summary)
   - [Main Ideas](#main-ideas)
   - [Key Idea #1: Seeking Pleasures And Avoiding Pain Will Not Result In Happiness](#key-idea-1-seeking-pleasures-and-avoiding-pain-will-not-result-in-happiness)
   - [Key Idea #2: Although We See Ourselves As A Single Unified “self” This Is Not The Case.](#key-idea-2-although-we-see-ourselves-as-a-single-unified-self-this-is-not-the-case)
@@ -15,12 +15,12 @@
   - [Key Idea #8: If You Decide To Use Drugs On Your Path To Spirituality, Be Careful.](#key-idea-8-if-you-decide-to-use-drugs-on-your-path-to-spirituality-be-careful)
   - [References](#references)
 
-## WIP: Review
+## Review
 
 ★★★★★
 
 Waking Up by Sam Harris is a book about the nature of consciousness, how "I" is
-an illusion, spirituality is a scientific matter, and how meditation (and
+an illusion, how spirituality is a scientific matter, and how meditation (and
 perhaps psychedelics) can be a powerful tool to explore and understand one's own
 mind.
 
@@ -29,7 +29,7 @@ consciousness and the human mind. Harris presents his ideas in an articulate and
 consumable way, which is impressive given the mysterious, abstract, and symbolic
 nature of consciousness.
 
-## WIP: Summary
+## Summary
 
 ### Main Ideas
 
