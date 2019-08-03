@@ -112,7 +112,7 @@ evidence was in the form of anecdotes.
 
 #### Chapter 3 - Belonging
 
-- Circle of safety: Team's / individual's defenses to outside threats
+- Circle of Safety: Team's / individual's defenses to outside threats
 - World is filled with dangers. We evolved among natural threats like tigers,
   but today's threats are competitors, changing tech, meeting deadlines, etc.
   and are just as real
@@ -120,10 +120,10 @@ evidence was in the form of anecdotes.
 - When bad orgs present threats, people and teams become defensive, and act to
   protect themselves at cost of org
 - Duty of leader: create team culture free of threats and rich in camaraderie
-- Bad circle of safety = circle of threats: Layoffs, isolation, politics,
+- Bad Circle of Safety = circle of threats: Layoffs, isolation, politics,
   shaming, intimidation, etc.
-- Good circle of safety: Belonging, protection, honesty, caring, etc.
-- Good circle of safety = team members free to effectively tackle threats to the
+- Good Circle of Safety: Belonging, protection, honesty, caring, etc.
+- Good Circle of Safety = team members free to effectively tackle threats to the
   organization
 
 #### Chapter 4 - Yeah, but...
@@ -149,7 +149,7 @@ evidence was in the form of anecdotes.
   - Dopamine: Feels good when accomplishing goal
   - Serotonin: Makes you feel grateful for those who support you
   - Oxytocin: Makes you feel love and is released when hugging or bonding
-- Serotonin & oxytocin backbone of circle of safety
+- Serotonin & oxytocin backbone of Circle of Safety
 - Can't feel sense of responsibility towards numbers, we can only feel a sense
   of responsibility to people
 
@@ -292,25 +292,73 @@ evidence was in the form of anecdotes.
 
 #### Chapter 19 Leadership Lesson 3: Integrity Matters
 
+- Can't trust leaders when social fabric of group is in chaos
+- Ledership is about:
+  - Integrity: Adherence to a code of morals, honesty, incorruptibility,
+    reliable
+  - Honesty
+  - Accountability
+
 #### Chapter 20 Leadership Lesson 4: Friends Matter
 
+- US Congress worked better in the past b/c democrats and republicans mingled
+- Author says healthy to meet and spend time together outside of work
+- If we never spend time with opponents, we tend to demonize them
+
 #### Chapter 21 Leadership Lesson 5: Lead the People, Not the Numbers
+
+- Author says ex CEO of G.E. left company in poor condition
+- Compare to Costco's CEO who treats employees well, and is interested in
+  long-term growth
+- Few people know Costco's CEO, but he built a more solid company, and returns
+  higher over long time
+- Directive leaders _initially_ outperform empowering leaders, but in the long
+  run, empowering leaders do better
 
 ### Part 7 - A Society Of Addicts
 
 #### Chapter 22 At the Center of All Our Problems Is Us
 
+- Managers look after numbers and results, leaders look after us
+- Before blame managers, look at self first
+
 #### Chapter 23 At Any Expense
 
+- Disire to win has always existed and has always caused problems
+- Desire to win should not take precedence over taking care of people we serve
+
 #### Chapter 24 The Abstract Generation
+
+- Cellphones new drug for Generation Y
+- Digital addition makes more impatient at best, more lonely and isolated at
+  worst
+- Gen Y is superficial about "having an impact" and "raising awareness" but
+  forgets that requires grit, determination, and hard work
+- Doesn't happen with a share or a like
 
 ### Part 8 - Becoming A Leader
 
 #### Chapter 25 Step 12
 
+- In AA, step 12 actually gets rid of addiction
+- Step 12 is about service and taking care and helping someone else beat
+  alcoholism
+- Step 12 is about oxytocin which is key in beating addiction
+- AA is a good example of "Circle of Safety" mentioned earlier
+
 #### Chapter 26 Shared Struggle
 
+- To inspire us, we need challenges that outstrip the available resources
+- Bill Gates, for example, said "a PC on every desk"
+- If leaders can paint a challenge bigger than the available resources (but
+  within intellect capacities) people will become motivated and will give
+  everything they've got
+
 #### Chapter 27 We Need More Leaders
+
+- Leadership is a commitment that takes time, effort, and energy
+- Not just those on top who need to change, it's the responsibility of all of us
+  to keep the Circle of Safety strong
 
 ### References
 
