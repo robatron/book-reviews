@@ -8,7 +8,7 @@ below are sorted by the year and month I finished them.
 
 | Date Finished | Author       | Book Name                             | Review                               | Size<sup>1</sup> |
 | :------------ | :----------- | :------------------------------------ | :----------------------------------- | :--------------- |
-| 2019 05       | Harari       | Homo Deus                             | ★★★★★                                | 14h 54m          |
+| 2019-05       | Harari       | Homo Deus                             | ★★★★★                                | 14h 54m          |
 | 2019-04       | Carey        | Girl with all the Gifts               | ★★★★☆                                | 448 pages        |
 | 2019-04       | Clear        | Atomic Habits                         | ★★★★★                                | 5h 35m           |
 | 2019-04       | Doerr        | Measure what Matters                  | ★★★☆☆                                | 7h 56m           |
