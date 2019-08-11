@@ -24,6 +24,7 @@ below are sorted by the year and month I finished them.
 | 2019-07       | Haidt        | The Righteous Mind                    | ★★★★★                                | 11h 1m           |
 | 2019-07       | Harris       | Waking Up                             | [★★★★★](./harris_waking-up.md)       | 256 pages        |
 | 2019-07       | Sinek        | Leaders Eat Last                      | [★★★☆☆](./sinek_leaders-eat-last.md) | 11h 1m           |
+| 2019-08       | Thaler       | Misbehaving                           | ★★★★☆                                | 13h 35m          |
 
 <sup>1</sup> A size of _time_ means it was an audiobook. A size of _pages_ means
 it was a traditional book. If a book has a review document, it has a star rating
